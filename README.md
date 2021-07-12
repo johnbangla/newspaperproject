@@ -1,6 +1,6 @@
 # Classification of News HeadLines
 
-##### [DEMO VIDEO](https://www.youtube.com/watch?v=HeKchZ1dauM&feature=youtu.be)
+
 
 News Headline Classification through multiple machine learning model and comparison of results.
 
